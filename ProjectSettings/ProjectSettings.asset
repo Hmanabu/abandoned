@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 0e6e89467a749994c90110a24c44b614
+  productGUID: 9e2aa297b7a8b904bac87ff390828fe4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -682,10 +682,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5fa38e71-2b97-4b61-9c1e-21667d6ad099
+  cloudProjectId: d8bbdea0-2e28-43f1-8d36-cc2d1e98979c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: abandoned
+  projectName: abandoned 2026-03-27_20-30-02
   organizationId: otakuwith
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
